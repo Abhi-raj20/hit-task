@@ -1,5 +1,6 @@
 "use client";
-import { VStack, Text, Box } from '@chakra-ui/react';
+import { VStack, Text } from '@chakra-ui/react';
+import { Box } from "@chakra-ui/react"; 
 import DomainItem from './DomainItem';
 
 interface DomainListProps {
